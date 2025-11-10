@@ -1,0 +1,26 @@
+{
+  "name": "command-line-interface-cli-application",
+  "version": "1.0.0",
+  "description": "A command-line weather application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiggawigga-max/Command-Line-Interface-CLI-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiggawigga-max/Command-Line-Interface-CLI-application/issues"
+  },
+  "homepage": "https://github.com/chiggawigga-max/Command-Line-Interface-CLI-application#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3"
+  }
+}
